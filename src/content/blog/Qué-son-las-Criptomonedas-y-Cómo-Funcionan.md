@@ -2,7 +2,7 @@
 title: '¿Qué son las Criptomonedas y Cómo Funcionan?'
 description: 'En este artículo, exploraremos qué son las criptomonedas, cómo funcionan, para qué sirven y desglosaremos el concepto de blockchain, la tecnología que las hace posibles. Si alguna vez has oído hablar de Bitcoin o Ethereum y te has preguntado qué significan'
 pubDate: 'Dec 01 2024'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/blog-placeholder-3.webp'
 ---
 
 # ¿Qué son las criptomonedas?

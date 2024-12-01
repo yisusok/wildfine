@@ -1,7 +1,7 @@
 ---
 title: '¿Qué son las Criptomonedas y Cómo Funcionan?'
 description: 'En este artículo, exploraremos qué son las criptomonedas, cómo funcionan, para qué sirven y desglosaremos el concepto de blockchain, la tecnología que las hace posibles. Si alguna vez has oído hablar de Bitcoin o Ethereum y te has preguntado qué significan'
-pubDate: 'dic 01 2024'
+pubDate: 'Dec 01 2024'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 
@@ -13,13 +13,13 @@ Cada criptomoneda utiliza criptografía avanzada para garantizar la seguridad de
 ### ¿Cómo funcionan las criptomonedas?
 El funcionamiento de las criptomonedas se basa en tres pilares clave:
 
-1. #### Descentralización:
+#### 1. Descentralización:
 A diferencia de los bancos, las criptomonedas no están controladas por ninguna entidad central. Esto significa que ninguna autoridad gubernamental o financiera tiene poder directo sobre ellas. En cambio, están distribuidas en una red de computadoras llamada blockchain.
 
-2. #### Blockchain:
+#### 2. Blockchain:
 La blockchain (o cadena de bloques) es un registro digital donde se almacenan todas las transacciones realizadas con una criptomoneda. Cada bloque contiene un conjunto de transacciones verificadas y se conecta de forma segura al bloque anterior, formando una cadena inmutable.
 
-3. #### Minería y validación:
+#### 3. Minería y validación:
 Algunas criptomonedas, como Bitcoin, se crean a través de un proceso llamado minería, donde computadoras resuelven complejos problemas matemáticos para validar transacciones y añadir nuevos bloques a la blockchain. Otras, como Ethereum, están adoptando modelos más eficientes energéticamente, como proof of stake.
 
 ### ¿Para qué sirven las criptomonedas?
